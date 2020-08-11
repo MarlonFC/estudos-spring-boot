@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: myfirstproject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: marlon.costa
+Implementation-Vendor-Id: com.devsuperior
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://spring.io/projects/spring-boot/myfirstproj
+ ect
+Created-By: Maven Integration for Eclipse
+
